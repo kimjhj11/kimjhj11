@@ -9,10 +9,40 @@
 
 - 항상 즐거운 일에 가치를 더하는 방법을 생각합니다.
 
-
 # :mailbox_closed: Contacts
 - ### **GitHub** : [kimjhj11](https://github.com/kimjhj11)
 - ### **Email** : kimjhj11@naver.com
+
+# :wrench: Skills
+
+<div align="center">
+  
+### Languages
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+![perforce](https://img.shields.io/badge/perforce-404040.svg?&style=for-the-badge&logo=perforce&logoColor=white)
+
+### Environment
+![unity](https://img.shields.io/badge/unity-000000.svg?&style=for-the-badge&logo=unity&logoColor=white)
+![unrealengine](https://img.shields.io/badge/unreal%20engine-0E1128.svg?&style=for-the-badge&logo=unrealengine&logoColor=white)
+![amazonaws](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### Git-hub stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjhj11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+### Most used langs
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjhj11&layout=compact&theme=radical)
+
+### Solved.ac rank
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjhj11)](https://solved.ac/kimjhj11/)
+
+</div>
 
 # :bulb: Personal Experiences & Projects
 ## Unity
@@ -36,14 +66,7 @@
 
 
 # :pencil: 교육이수
-- `2019-09` [SW빌리지] 보안-블록체인
-- `2019-10` [SW빌리지] 게임보안
-- `2019-11` SW 아이디어 콘테스트 참여
-- `2020-01` 정보보안 전문가 과정
-- `2020-02` IoT기초
-- `2020-09` Web 기반 증강현실(AR) 콘텐츠 제작
-- `2020-09` 누구나 할 수 있는 증강현실(AR) 콘텐츠 제작
-- `2020-09` 오픈소스와 클라우드(공개SW 클라우드의 구축과 활용)
-- `2021-01` 자바 객체지향 프로그래밍 클리닉
-- `2021-06` [누구나 할 수 있는 웹기반 증강현실(AR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=459&cmd=view)
-- `2021-09` [누구나 할 수 있는 가상현실(VR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=316&cmd=view)
+- `2020-01` 한림대학교 - 정보보안 전문가 과정
+- `2020-09` 강원 VR·AR제작거점센터 - 증강현실(AR) 콘텐츠 제작
+- `2021-06` 강원 VR·AR제작거점센터 - [웹기반 증강현실(AR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=459&cmd=view)
+- `2021-09` 강원 VR·AR제작거점센터 - [가상현실(VR) 콘텐츠 제작](https://hlsw.hallym.ac.kr/index.php?mt=page&mp=5_2&mm=oxbbs&oxid=2&cpage=1&key=TITLE_CONTENT&val=VR&CAT_ID=0&BID=316&cmd=view)
