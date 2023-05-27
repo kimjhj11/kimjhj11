@@ -34,7 +34,7 @@
 ![amazonaws](https://img.shields.io/badge/amazon%20aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ### Git-hub stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjhj11&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjhj11&show_icons=true&theme=radical)]
 
 ### Most used langs
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjhj11&layout=compact&theme=radical)
