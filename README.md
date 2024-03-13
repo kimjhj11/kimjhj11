@@ -48,7 +48,7 @@
 ## Unity
 - ### `2021-12` [Rule Mate](https://github.com/hhj3258/RuleMate_Project)
   -  캐주얼 멀티플레이 게임
-  -  [Youtube - Rule Mate](https://youtu.be/tVv9VbjxU5U)
+  -  [Youtube - Rule Mate](https://youtu.be/AoNt2m4YLZ8?si=siKcVyTXJnn2mqQp)
 
 <img src="https://user-images.githubusercontent.com/70702088/146521110-d5889960-c32e-41f8-8d6e-dc3ce2f56a00.png" width="50%" height="50%"></img>
 
